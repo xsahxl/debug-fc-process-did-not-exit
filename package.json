@@ -1,0 +1,19 @@
+{
+  "name": "debug-fc-process-did-not-exit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alicloud/fc20230330": "^2.0.0",
+    "@alicloud/openapi-client": "^0.4.6"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
